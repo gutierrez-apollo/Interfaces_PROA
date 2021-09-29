@@ -1,0 +1,36 @@
+        h1 {
+            max-width: max-content;
+            color: blue;
+            background-color: darkgray;
+        }
+        
+        p {
+            color: red;
+            font-size: 30px;
+            text-align: center;
+            background-repeat: no-repeat;
+            font-family: monospace;
+            font-weight: bolder;
+        }
+        
+        #parquedocarmo {
+            width: 500px;
+            height: 400px;
+            border-radius: 10px;
+            display: block;
+            margin: auto;
+            /* Comentário */
+        }
+        #pracadase{
+            width: 500px;
+            height: 400px;
+            border-radius: 10px;
+            display: block;
+            margin: auto;
+        }
+        /* pagina com javascript */
+        
+        #botao01{
+            border: 2px solid red;
+            background-color: blue;
+        }
